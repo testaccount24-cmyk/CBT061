@@ -1,0 +1,4 @@
+2025-03-28 15:09:47.850292 - Received CBT.V508.FILE061.PDS from FILE061.XMI 
+2025-03-28 15:09:47.851650 - Found SSR01AR.bin (application/octet-stream) in CBT.V508.FILE061.PDS, moved to PDS/SSR01AR
+2025-03-28 15:09:47.853156 - Found SSR010PR.bin (application/octet-stream) in CBT.V508.FILE061.PDS, moved to PDS/SSR010PR
+2025-03-28 15:09:47.854553 - Found SSR011PR.bin (application/octet-stream) in CBT.V508.FILE061.PDS, moved to PDS/SSR011PR
